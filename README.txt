@@ -7,3 +7,6 @@ Technologies used:
  -HTML
  -Bootstrap 4 (CSS framework)
  -Javascript
+
+Also available at:
+	https://github.com/RaphaelQSmith/Ghibli-movielist
